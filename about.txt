@@ -1,0 +1,1 @@
+this contains some simple r programs which contain prograams like perfect,palindrome number,largest among three numbers etc.
