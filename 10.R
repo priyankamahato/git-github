@@ -1,0 +1,18 @@
+c=0
+n=2
+while(c!=10)
+{
+   c2=0
+	x=n-1
+   while(x!=1)
+   {
+     if(n%%x==0)
+      c2=c2+1
+     x=x-1
+   }   
+   if(c2==0){ 
+     print(n)
+     c=c+1
+   }
+   n=n+1
+}
